@@ -14,7 +14,7 @@ void	ft_ultimate_ft(int *********nbr)
 {
 	*********nbr = 42;
 }
-#include <stdio.h>
+/*#include <stdio.h>
 int main(void)
 {
 	int number = 0;
@@ -31,4 +31,4 @@ int main(void)
 	printf("Ptr9 has a diff addr, but value %d\n", *********ptr9);
 	ft_ultimate_ft(ptr9);
 	printf("Same addres but value %d\n", number);
-}
+}*/

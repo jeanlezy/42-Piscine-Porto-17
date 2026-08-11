@@ -6,7 +6,7 @@
 /*   By: jeanbarr <jeanbarr@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/22 23:17:45 by jeanbarr          #+#    #+#             */
-/*   Updated: 2026/07/26 11:30:23 by jeanbarr         ###   ########.fr       */
+/*   Updated: 2026/08/08 09:54:03 by jeanbarr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@ void	ft_swap(int *a, int *b)
 	*a = *b;
 	*b = tmp;
 }
-#include <stdio.h>
+/*#include <stdio.h>
 int main(void)
 {
 	int n1 = 42;
@@ -28,4 +28,4 @@ int main(void)
 	
 	ft_swap(a, b);
 	printf("New value a: %d, b: %d\n", *a, *b);
-}
+}*/

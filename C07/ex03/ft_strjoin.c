@@ -86,7 +86,7 @@ char	*ft_strjoin(int size, char **strs, char *sep)
 	}
 	return (all_tog);
 }
-/*#include <stdio.h> //main exam
+#include <stdio.h> //main exam
 int main(void)
 {	
 	char	*res;
@@ -98,7 +98,7 @@ int main(void)
 	printf("Teste: %s\n", res);
 	
 	free(res);
-}*/
+}
 /*int	main(int argc, char **argv)
 {
 	char	*result;

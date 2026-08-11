@@ -23,7 +23,7 @@ char	*ft_strcpy(char *dest, char *src)
 	dest[i] = '\0';
 	return (dest);
 }
-#include <stdio.h>
+/*#include <stdio.h>
 int main(void)
 {
 	char	src[] = "Passei na 42";
@@ -32,4 +32,4 @@ int main(void)
 	printf("Before dest: %s\n", dest);
 	ft_strcpy(dest, src);
 	printf("After dest: %s\n", dest);
-}
+}*/

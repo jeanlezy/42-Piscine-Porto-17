@@ -6,7 +6,7 @@
 /*   By: jeanbarr <jeanbarr@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/25 10:35:09 by jeanbarr          #+#    #+#             */
-/*   Updated: 2026/07/26 21:44:13 by jeanbarr         ###   ########.fr       */
+/*   Updated: 2026/08/08 11:40:23 by jeanbarr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,7 +21,7 @@ int	ft_strcmp(char *s1, char *s2)
 	}
 	return (s1[i] - s2[i]);
 }
-#include <stdio.h>
+/*#include <stdio.h>
 int main(int argc, char **argv)
 {
 	if(argc != 3)
@@ -30,4 +30,4 @@ int main(int argc, char **argv)
 		return (0);
 	}
 	printf("%d\n", ft_strcmp(argv[1], argv[2]));
-}
+}*/

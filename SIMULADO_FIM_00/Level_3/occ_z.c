@@ -1,0 +1,23 @@
+int occ_a(char *str)
+{
+	int i;
+	int count;
+
+	i = 0;
+	count = 0;
+	while(str[i])
+	{
+		if(str[i] == 'Z')
+			count++;
+		i++;
+	}
+	return (count);
+}
+#include <stdio.h>
+int main(int argc, char **argv)
+{
+	if(argc == 2)
+	{
+		printf("%d\n", occ_a(argv[1]));
+	}
+}

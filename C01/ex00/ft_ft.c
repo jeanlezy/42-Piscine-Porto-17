@@ -14,6 +14,7 @@ void	ft_ft(int *nbr)
 {
 	*nbr = 42;
 }
+/*
 #include <stdio.h>
 int main(void)
 {
@@ -22,4 +23,4 @@ int main(void)
 	
 	ft_ft(nbr);
 	printf("Valor agora %d\n", *nbr);
-}
+}*/
