@@ -10,13 +10,6 @@ int main(int argc, char **argv)
 	}
 	while(argv[1][i])
 	{
-		if(argv[1][i] >= 'a' && argv[1][i] <= 'z')
-		{
-			if(i == 0 || argv[1][i - 1] == ' ' || argv[1][i - 1] == '\t')
-			{
-				argv[1][i] -= 32;
-			}
-		}
 		write(1, &argv[1][i], 1);
 		i++;
 	}
