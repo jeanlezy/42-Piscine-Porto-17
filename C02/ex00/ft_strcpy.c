@@ -26,8 +26,8 @@ char	*ft_strcpy(char *dest, char *src)
 /*#include <stdio.h>
 int main(void)
 {
-	char	src[] = "Passei na 42";
-	char	dest[] = "Sera?";
+	char	src[] = "We're 42";
+	char	dest[] = "No no no";
 	
 	printf("Before dest: %s\n", dest);
 	ft_strcpy(dest, src);
