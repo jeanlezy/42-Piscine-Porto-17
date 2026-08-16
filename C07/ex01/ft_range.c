@@ -38,28 +38,7 @@ int	*ft_range(int min, int max)
 	return (res);
 }
 /*
-#include <stdio.h> // main easy
-int main(void)
-{
-	int i = 0;
-	int min = 2;
-	int max = 8;
-	int size = max - min;
-	int *range = ft_range(min, max);
-
-	if(!range)
-	{
-		return (1);
-	}
-	while(i < size)
-	{
-		printf("%d\n", range[i]);
-		i++;
-	}
-	free(range);
-	return (0);
-}
-#include <stdio.h> // main hard
+#include <stdio.h>
 int  main(int argc, char **argv)
 {
 	int min;
