@@ -3,7 +3,7 @@
 ║                                                              ║
 ║                    42 PORTO PISCINE                          ║
 ║                                                              ║
-║              START → STRUGGLE → LEARN → BUILD               ║
+║              START → STRUGGLE → LEARN → BUILD                ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 
@@ -94,7 +94,7 @@ This project combines: Algorithmic thinking, Parsing, Arrays, Memory management,
 │                                             │
 │  Collaboration                              │
 │  ─────────────                              │
-│  Learn from other students.                │
+│  Learn from other students.                 │
 │                                             │
 │  Discipline                                 │
 │  ──────────                                 │
