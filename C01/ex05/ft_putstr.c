@@ -25,7 +25,7 @@ void	ft_putstr(char *str)
 /*
 int main(void)
 {
-	char	str[] = "Passei na 42";
+	char	str[] = "We're 42";
 
 	ft_putstr(str);
 }*/
