@@ -12,7 +12,6 @@
 
 void	ft_putchar(char c);
 
-// print line first, middle, last
 void	print(int col, char fst, char mid, char last)
 {
 	int i;
