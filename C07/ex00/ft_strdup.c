@@ -40,7 +40,7 @@ char	*ft_strdup(char *src)
 #include <stdio.h>
 int main(void)
 {
-	char	src[] = "Passei na 42";
+	char	src[] = "We're 42";
 
 	printf("Original: %s and Duplicate: %s\n", src, ft_strdup(src));
 	return (0);
