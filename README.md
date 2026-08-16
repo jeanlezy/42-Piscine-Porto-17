@@ -10,7 +10,7 @@ The Piscine is not about memorizing syntax. It is about learning how to think, d
 
 <p align="center">
   <img src="https://img.shields.io/badge/42-Porto-000000?style=flat-square&logo=42&logoColor=white" alt="42 Porto">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/00599C?style=flat-square&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white" alt="Unix">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
