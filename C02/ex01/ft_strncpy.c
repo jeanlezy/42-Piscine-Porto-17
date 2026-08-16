@@ -30,7 +30,7 @@ char	*ft_strncpy(char *dest, char *src, unsigned int n)
 /*#include <stdio.h>
 int main(void)
 {
-	char	dest[] = "Passei"; 
+	char	dest[] = "Pass"; 
 	char	src[] =  "$$$";
 	int n = 3;
 
