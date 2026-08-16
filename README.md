@@ -1,138 +1,176 @@
-42 Porto — Piscine Journey
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                    42 PORTO PISCINE                          ║
-║                                                              ║
-║              START → STRUGGLE → LEARN → BUILD                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+# 42 Porto — Piscine Journey
 
-"The only way to learn is to do."
+> **START → STRUGGLE → LEARN → BUILD**
 
-This repository documents my journey through the 42 Porto Piscine — an intensive coding experience of 26 days focused on problem solving, C programming, Unix, algorithms, teamwork and self-learning.
+*"The only way to learn is to do."*
+
+This repository documents my journey through the **42 Porto Piscine** — an intensive coding experience of 26 days focused on problem solving, C programming, Unix, algorithms, teamwork and self-learning.
 
 The Piscine is not about memorizing syntax. It is about learning how to think, debug, search, collaborate and keep going when the code doesn't work.
 
-🧠 What is the Piscine?
+<p align="center">
+  <img src="https://img.shields.io/badge/42-Porto-000000?style=flat-square&logo=42&logoColor=white" alt="42 Porto">
+  <img src="https://img.shields.io/badge/C-Programming-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white" alt="Unix">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
-The Piscine is 42's intensive selection process. 
+---
 
-For several weeks, students are immersed in programming challenges with very little hand-holding. The environment encourages:
+## 🧠 What is the Piscine?
 
-Independent problem solving, Peer-to-peer learning, Research and experimentation, Debugging, Code review, Time management, Collaboration, Learning from failure
+Over 26 days, students are immersed in programming challenges with minimal guidance, learning through practice, experimentation and collaboration.
 
-For me, it is also the beginning of a transition into Software Engineering, with a long-term interest in Backend Development, Systems and Cybersecurity.
+The experience focuses on:
 
-💻 - ⚙️ Projects 
+- Independent problem solving
+- Peer-to-peer learning
+- Research and experimentation
+- Debugging and code review
+- Time management
+- Collaboration
+- Learning from failure
 
-Shell
-Shell 00
-Unix commands, File management, Permissions, Links, Directories, Terminal navigation, Basic shell operations.
+For me, the Piscine represents the beginning of my transition into **Software Engineering**, with a long-term interest in **Backend Development, Systems and Cybersecurity**.
 
-Shell 01
-Shell scripting, Environment, Text processing, Permissions, Pipes, CommandsFile manipulation;
+---
 
-C Programming
+## 💻 + ⚙️ Projects
+
+### 🐚 Shell
+
+#### Shell 00
+
+Unix commands, file management, permissions, links, directories, terminal navigation and basic shell operations.
+
+#### Shell 01
+
+Shell scripting, environment variables, text processing, permissions, pipes, commands and file manipulation.
+
+---
+
+### 🔵 C Programming
+
 The C modules progressively introduce the foundations of low-level programming.
 
-C00 — The Beginning
-Functions, Output, Basic syntax, Loops, Conditions, Character manipulation;
+#### C00 — The Beginning
 
-C01 — Pointers
-Pointers, Memory addresses, Arrays, Functions using pointers
+Functions, output, basic syntax, loops, conditions and character manipulation.
 
-C02 — Strings & Arrays
-String manipulation, Arrays, Character handling, Copying, Comparison, Concatenation
+#### C01 — Pointers
 
-C03 — String Operations
-String comparison, String manipulation, Functions
+Pointers, memory addresses, arrays and functions using pointers.
 
-C04 — Numbers & Conversion
-Number manipulation, Integer conversion, Base conversion
+#### C02 — Strings & Arrays
 
-C05 — Functions & Recursion
-Recursion, Mathematical problems, Function logic
+String manipulation, arrays, character handling, copying, comparison and concatenation.
 
-C06 — Arguments
-argc and argv, Command-line arguments, Program execution
+#### C03 — String Operations
 
-C07 — Memory Allocation
-malloc, free, Dynamic memory, Memory management
+String comparison, string manipulation and functions.
 
-C08 — Structures & Header Files
-Structures, Header files, Data organization, Compilation
+#### C04 — Numbers & Conversion
 
-C09 — Advanced Concepts
-Libraries, Complex data structures, Project organization, Compilation
+Number manipulation, integer conversion and base conversion.
 
-🚀 Rush Projects
+#### C05 — Functions & Recursion
 
-The Rush projects introduced another important part of the Piscine - Working with other people while solving a programming problem under pressure.
+Recursion, mathematical problems and function logic.
+
+#### C06 — Arguments
+
+`argc`, `argv`, command-line arguments and program execution.
+
+#### C07 — Memory Allocation
+
+`malloc`, `free`, dynamic memory and memory management.
+
+#### C08 — Structures & Header Files
+
+Structures, header files, data organization and compilation.
+
+#### C09 — Libraries & Project Organization
+
+Libraries, complex data structures, project organization and compilation.
+
+---
+
+## 🚀 Rush Projects
+
+The Rush projects introduced another important part of the Piscine — working with other people while solving programming problems under pressure.
 
 These projects required communication, organization and collaboration in addition to coding.
 
-🧩 BSQ
+---
 
-The BSQ (Biggest Square) project are in progress after the Piscine
+## 🧩 BSQ
 
-This project combines: Algorithmic thinking, Parsing, Arrays, Memory management, Problem decomposition, Optimization, Debugging
+The **BSQ (Biggest Square)** project is currently in progress.
 
-🧪 What I Learned
-┌─────────────────────────────────────────────┐
-│                                             │
-│  Problem Solving                            │
-│  ─────────────────                          │
-│  Break complex problems into smaller ones.  │
-│                                             │
-│  Debugging                                  │
-│  ─────────                                  │
-│  Understand why something fails.            │
-│                                             │
-│  Research                                   │
-│  ────────                                   │
-│  Learn how to find the information needed.  │
-│                                             │
-│  Collaboration                              │
-│  ─────────────                              │
-│  Learn from other students.                 │
-│                                             │
-│  Discipline                                 │
-│  ──────────                                 │
-│  Keep working even when the solution        │
-│  isn't obvious.                             │
-│                                             │
-└─────────────────────────────────────────────┘
-Every segmentation fault is another lesson.
+This project combines:
 
-🧠 Lessons From the Piscine
+- Algorithmic thinking
+- Parsing
+- Arrays
+- Memory management
+- Problem decomposition
+- Optimization
+- Debugging
+
+---
+
+## 🧪 What I Learned
+
+> **Problem Solving** → Break complex problems into smaller ones.  
+> **Debugging** → Understand why something fails.  
+> **Research** → Learn how to find the information needed.  
+> **Collaboration** → Learn from other students.  
+> **Discipline** → Keep working even when the solution isn't obvious.
+
+**Every segmentation fault is another lesson.**
+
+---
+
+## 🧠 Lessons From the Piscine
 
 The biggest lesson so far is that programming is rarely about knowing the answer immediately.
 
 It is about being able to say:
 
-"I don't know yet." -> "Let's investigate." -> "Let's test it." -> "Why did that fail?" -> "Let's try again." -> And again ..." -> "I understand it now."
+> *"I don't know yet."*  
+> ↓  
+> *"Let's investigate."*  
+> ↓  
+> *"Let's test it."*  
+> ↓  
+> *"Why did that fail?"*  
+> ↓  
+> *"Let's try again."*  
+> ↓  
+> *"I understand it now."*
 
 That mindset is one of the main things I want to carry forward into Software Engineering.
 
-📌 Disclaimer
+---
 
-This repository contains my personal work developed during the 42 Porto Piscine for educational and portfolio purposes.
+## 📌 Disclaimer
+
+This repository contains my personal work developed during the **42 Porto Piscine** for educational and portfolio purposes.
 
 The source code written by me remains my own work. However, this repository may contain references to exercises, subjects, conventions, or other educational material belonging to 42.
 
 42 School materials, logos, subjects and other proprietary content are not licensed by this repository and remain subject to their respective rights and terms.
 
-This repository is not affiliated with or endorsed by 42.
+This repository is **not affiliated with or endorsed by 42**.
 
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        STARTED WITH "I DON'T KNOW."                          ║
-║                                                              ║
-║        CONTINUING WITH "I'LL FIGURE IT OUT."                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-> End of log
+---
 
-42 Porto — Piscine Journey
+> **STARTED WITH "I DON'T KNOW."**  
+> **CONTINUING WITH "I'LL FIGURE IT OUT."**
 
-Learn → Code → Break → Debug → Repeat
+> *End of log*
+
+### 42 Porto — Piscine Journey
+
+**Learn → Code → Break → Debug → Repeat**
