@@ -37,6 +37,7 @@ char	*ft_strdup(char *src)
 	dest[i] = '\0';
 	return (dest);
 }
+/*
 #include <stdio.h>
 int main(void)
 {
@@ -45,7 +46,7 @@ int main(void)
 	printf("Original: %s and Duplicate: %s\n", src, ft_strdup(src));
 	return (0);
 }
-
+*/
 /*int main(int argc, char **argv)
 {
 	int i;
