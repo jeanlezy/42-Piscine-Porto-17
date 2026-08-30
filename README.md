@@ -41,11 +41,9 @@ For me, the Piscine represents the beginning of my transition into **Software En
 ### 🐚 Shell
 
 #### Shell 00
-
 Unix commands, file management, permissions, links, directories, terminal navigation and basic shell operations.
 
 #### Shell 01
-
 Shell scripting, environment variables, text processing, permissions, pipes, commands and file manipulation.
 
 ---
@@ -55,43 +53,33 @@ Shell scripting, environment variables, text processing, permissions, pipes, com
 The C modules progressively introduce the foundations of low-level programming.
 
 #### C00 — The Beginning
-
 Functions, output, basic syntax, loops, conditions and character manipulation.
 
 #### C01 — Pointers
-
 Pointers, memory addresses, arrays and functions using pointers.
 
 #### C02 — Strings & Arrays
-
 String manipulation, arrays, character handling, copying, comparison and concatenation.
 
 #### C03 — String Operations
-
 String comparison, string manipulation and functions.
 
 #### C04 — Numbers & Conversion
-
 Number manipulation, integer conversion and base conversion.
 
 #### C05 — Functions & Recursion
-
 Recursion, mathematical problems and function logic.
 
 #### C06 — Arguments
-
 `argc`, `argv`, command-line arguments and program execution.
 
 #### C07 — Memory Allocation
-
 `malloc`, `free`, dynamic memory and memory management.
 
 #### C08 — Structures & Header Files
-
 Structures, header files, data organization and compilation.
 
 #### C09 — Libraries & Project Organization
-
 Libraries, complex data structures, project organization and compilation.
 
 ---
@@ -99,14 +87,13 @@ Libraries, complex data structures, project organization and compilation.
 ## 🚀 Rush Projects
 
 The Rush projects introduced another important part of the Piscine — working with other people while solving programming problems under pressure.
-
 These projects required communication, organization and collaboration in addition to coding.
 
 ---
 
 ## 🧩 BSQ
 
-The **BSQ (Biggest Square)** project is currently in progress.
+The **BSQ (Biggest Square)** project is currently in progress after the piscine.
 
 This project combines:
 
