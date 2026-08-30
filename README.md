@@ -50,36 +50,25 @@ For me, the Piscine represents the beginning of my transition into **Software En
 
 The C modules progressively introduce the foundations of low-level programming.
 
-#### C00 — The Beginning
+`C00` — (The Beginning) - Functions, output, basic syntax, loops, conditions and character manipulation.
 
-Functions, output, basic syntax, loops, conditions and character manipulation.
+`C01` — (Pointers) - Pointers, memory addresses, arrays and functions using pointers.
 
-#### C01 — Pointers
-Pointers, memory addresses, arrays and functions using pointers.
+`C02` — (Strings & Arrays) - String manipulation, arrays, character handling, copying, comparison and concatenation.
 
-#### C02 — Strings & Arrays
-String manipulation, arrays, character handling, copying, comparison and concatenation.
+`C03` — (String Operations) - String comparison, string manipulation and functions.
 
-#### C03 — String Operations
-String comparison, string manipulation and functions.
+`C04` — (Numbers & Conversion) - Number manipulation, integer conversion and base conversion.
 
-#### C04 — Numbers & Conversion
-Number manipulation, integer conversion and base conversion.
+`C05` — Functions & Recursion - Recursion, mathematical problems and function logic.
 
-#### C05 — Functions & Recursion
-Recursion, mathematical problems and function logic.
+`C06` — (Arguments) - `argc`, `argv`, command-line arguments and program execution.
 
-#### C06 — Arguments
-`argc`, `argv`, command-line arguments and program execution.
+`C07` — (Memory Allocation) - `malloc`, `free`, dynamic memory and memory management.
 
-#### C07 — Memory Allocation
-`malloc`, `free`, dynamic memory and memory management.
+`C08` — (Structures & Header Files) - Structures, header files, data organization and compilation.
 
-#### C08 — Structures & Header Files
-Structures, header files, data organization and compilation.
-
-#### C09 — Libraries & Project Organization
-Libraries, complex data structures, project organization and compilation.
+`C09` — (Libraries & Project Organization) - Libraries, complex data structures, project organization and compilation.
 
 ---
 
