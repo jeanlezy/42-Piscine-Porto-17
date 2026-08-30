@@ -70,6 +70,22 @@ The C modules progressively introduce the foundations of low-level programming.
 
 `C09` — (Libraries & Project Organization) - Libraries, complex data structures, project organization and compilation.
 
+## ⚠️Warning
+
+Projects from **C10** onwards (inclusive) were developed **after the official end of the Piscine**, on my own initiative, for study and practice purposes.
+
+For this reason, they were **not evaluated by the *moulinette*** nor did they undergo peer review. The code is provided "as is," without any guarantee that it fully complies with standards or is free from errors or flaws that would typically be detected during an official evaluation.
+
+`C10` — (File Descriptors) - File manipulation using open/read/write/close. Recreation of display_file, cat, tail, and hexdump.
+
+`C11` — (Function Pointers) - Functional programming with function pointers: foreach, map, any, count_if, is_sort, do-op, and string array sorting.
+
+`C12` — (Linked Lists) - Data structures: linked lists. Creation, insertion, search, removal, iteration, sorting, and reversal of lists.
+
+`C13` — (Binary Trees) - Data structures: binary trees. Node creation, traversals (prefix/infix/suffix), sorted insertion, search, and level-order traversal.
+
+
+
 ---
 
 ## 🚀 Rush Projects
