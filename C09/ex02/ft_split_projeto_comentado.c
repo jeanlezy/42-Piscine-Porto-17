@@ -89,7 +89,7 @@ char **ft_split(char *str, char *charset)
 	i = 0;
 	j = 0;
 	
-	res = (char **) mallo#include <stdio.h>c(sizeof(char *) * (count_words(str, charset) + 1));
+	res = (char **) malloc(sizeof(char *) * (count_words(str, charset) + 1));
 	if(!res)
 		return (NULL);
 	while(str[i])
