@@ -40,11 +40,9 @@ For me, the Piscine represents the beginning of my transition into **Software En
 
 ### 🐚 Shell
 
-#### Shell 00
-Unix commands, file management, permissions, links, directories, terminal navigation and basic shell operations.
+#### Shell 00 - Unix commands, file management, permissions, links, directories, terminal navigation and basic shell operations.
 
-#### Shell 01
-Shell scripting, environment variables, text processing, permissions, pipes, commands and file manipulation.
+#### Shell 01 - Shell scripting, environment variables, text processing, permissions, pipes, commands and file manipulation.
 
 ---
 
@@ -53,6 +51,7 @@ Shell scripting, environment variables, text processing, permissions, pipes, com
 The C modules progressively introduce the foundations of low-level programming.
 
 #### C00 — The Beginning
+
 Functions, output, basic syntax, loops, conditions and character manipulation.
 
 #### C01 — Pointers
