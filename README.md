@@ -1,7 +1,5 @@
 # 42 Porto — Piscine Journey
 
-> **START → STRUGGLE → LEARN → BUILD**
-
 *"The only way to learn is to do."*
 
 This repository documents my journey through the **42 Porto Piscine** — an intensive coding experience of 26 days focused on problem solving, C programming, Unix, algorithms, teamwork and self-learning.
