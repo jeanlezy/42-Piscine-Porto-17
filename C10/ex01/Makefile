@@ -1,7 +1,7 @@
-NAME = ft_display_file
-SRCS = ./ft_display_file.c
+NAME = ft_cat
+SRCS = ft_cat.c
 
-OBJS = $(SRCS:.c=.o)
+OBJS =$(SRCS:.c=.o)
 
 CC = gcc
 CFLAGS = -Wall -Werror -Wextra
@@ -12,13 +12,13 @@ RM = rm -rf
 # $@: rule target (.o que esta a ser gerado)
 %.o : %.c
 	$(CC) $(CFLAGS) -c $< -o $@
-
+	
 $(NAME): $(OBJS)
 	$(CC) $(CFLAGS) $(OBJS) -o $(NAME)
 
 all: $(NAME)
 
-clean: 
+clean:
 	$(RM) $(OBJS)
 
 fclean: clean
@@ -27,4 +27,3 @@ fclean: clean
 re: fclean all
 
 .PHONY: all clean fclean re
-
