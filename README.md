@@ -1,7 +1,5 @@
 # 42 Porto — Piscine Journey
 
-> **START → STRUGGLE → LEARN → BUILD**
-
 *"The only way to learn is to do."*
 
 This repository documents my journey through the **42 Porto Piscine** — an intensive coding experience of 26 days focused on problem solving, C programming, Unix, algorithms, teamwork and self-learning.
@@ -76,9 +74,9 @@ Projects from **C10** onwards (inclusive) were developed **after the official en
 
 For this reason, they were **not evaluated by the *moulinette*** nor did they undergo peer review. The code is provided "as is," without any guarantee that it fully complies with standards or is free from errors or flaws that would typically be detected during an official evaluation.
 
-`C10` — (File Descriptors) - File manipulation using open/read/write/close. Recreation of display_file, cat, tail, and hexdump.
+`C10` — (File Descriptors) - File manipulation using open/read/write/close.
 
-`C11` — (Function Pointers) - Functional programming with function pointers: foreach, map, any, count_if, is_sort, do-op, and string array sorting.
+`C11` — (Function Pointers) - Functional programming with function pointers.
 
 `C12` — (Linked Lists) - Data structures: linked lists. Creation, insertion, search, removal, iteration, sorting, and reversal of lists.
 
