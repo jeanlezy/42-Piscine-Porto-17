@@ -7,6 +7,13 @@
 
 #define LINE_SIZE 16
 
+/* format of hexdump -C
+00000000  48 65 6c 6c 6f 2c 20 77   6f 72 6c 64 21 0a    |hello|
+offset: 8 hex digits with zeros at left
+16 hex bytes in two blocks of 8, extra space between.
+ASCII: between |...| or .   
+*/
+
 // convert a single 4 bit value(0 - 15) into hex (0-9, 'a' - 'f') 
 char hex_char(int value)
 {
